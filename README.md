@@ -8,8 +8,9 @@
 <img src="./images/treefarm.jpg">
 
 # 회로도 및 부품 구성도
-<img src="./images/qrcodetreefarm.jpg">
+<img src="./images/schemetic.png">
 <img src="./images/부품 구성도.png">
 
 # 구동 영상
 https://youtu.be/z8QeiAW6dMk
+<img src="./images/qrcodetreefarm.jpg">
